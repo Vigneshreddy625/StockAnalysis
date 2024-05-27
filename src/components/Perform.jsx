@@ -32,7 +32,7 @@ const Perform = () => {
   };
 
   return (
-    <div className=" w-1/2 flex flex-col h-1/2 mx-10 my-10 rounded-md">
+    <div className=" max-w-screen-md flex flex-col h-1/2 mx-10 my-10 rounded-md">
       <div className="w-full flex justify-between dark:bg-gray-800 px-4 py-6">
         <h2 className="text-lg font-semibold text-gray-900 dark:text-white">
           Sector Performance
